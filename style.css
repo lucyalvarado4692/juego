@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: green;
+    font-family: monospace;
+}
+output{
+    display: block;
+    padding: 30px;
+    border: 2px solid green;
+    width: 80vw;
+    margin: auto;
+}
+#commands{
+    display:block;
+    margin: auto;
+    margin-top: 20px;
+    background-color: inherit;
+    padding: 5px;
+    color: inherit;
+    font-family: inherit;
+}
+label{
+    display: block;
+    margin: 20px auto;
+    width: 80vw;
+    text-align: center;
+}
+button{
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: inherit;
+    background-color: inherit;
+    border: 2px solid green;
+    border-radius: 20px;
+    color: inherit;
+
+}
